@@ -4,3 +4,4 @@
 + Brak biznes planu lub czemu by mogła służyć klasteryzacja.
 - Mogliście spróbować użyć np. TSNE i pokazać dane oraz czy sprawdzić czy nie widać już jakichś ugropowań
 + raczej nie powinno się dzielić danych na "train" i "val" 
+
