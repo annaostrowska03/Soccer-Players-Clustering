@@ -5,10 +5,14 @@ Our project goal is to find the best possible clustering model for analysing pla
 
 ### Project team:
 Anna Ostrowska
+
 Michał Iwaniuk
+
 ### Validators team:
 Paweł Florek
+
 Mateusz Deptuch
+
 ## 1st part of the project - Exploratory Data Analysis
 Can be found in the folder "EDA".
 ## 2nd part of the project - feature engineering
@@ -17,7 +21,9 @@ Can be found in the folder "feature_validation".
 Includes the final model selected by us for the realisation of the business plan. Can be found in the "final" folder.
 ## Final reports
 Reports are written in Polish.
+
 They can be found in "raport" and "raport_walidacyjny" file.
+
 We have also report about our validator work for the other team.
 ## Presentation
 The final presentation in Polish can be found in the "Ocena występów piłkarzy" file.
