@@ -1,5 +1,6 @@
 # Soccer-Players-Clustering
-This Project is created as part of Introduction to Machine Learning course included in Data Science Studies at Warsaw University of Technology. We are using the dataset from Kaggle: •	https://www.kaggle.com/datasets/spicemix/soccer-detailed-players-match-data?resource=download&select=players_away_matches.csv. \\
+This Project is created as part of Introduction to Machine Learning course included in Data Science Studies at Warsaw University of Technology. We are using the dataset from Kaggle: •	https://www.kaggle.com/datasets/spicemix/soccer-detailed-players-match-data?resource=download&select=players_away_matches.csv. 
+
 Our project goal is to find the best possible clustering model for analysing player performance data in football matches in order to provide insight to teams, coaches, analysts, scouting agencies and betting companies
 
 ### Project team:
