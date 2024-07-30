@@ -4,7 +4,7 @@ This Project is created as part of Introduction to Machine Learning course inclu
 Our project goal is to find the best possible clustering model for analysing player performance data in football matches in order to provide insight to teams, coaches, analysts, scouting agencies and betting companies
 
 ### Project team:
-[@annaostrowska03]
+[@Anna Ostrowska]
 
 [@iwanm]
 
